@@ -4,12 +4,12 @@
 |---|---|
 | **Nama** | Fikri Yustiawan |
 | **NIM** | 2225250075 |
-| **Kelas** | 3E |
+| **Kelas** | 3-E |
 | **Jurusan** | Pendidikan Matematika |
 
 ## **Tujuan Repositori**
 
-Repositori ini dibuat untuk mengumpulkan hasil latihan dan tugas praktik Python pada materi seleksi. Melalui latihan dan tugas ini, saya mempelajari penggunaan if, if-else, kondisi majemuk menggunakan operator logika, serta nested if untuk membuat keputusan berdasarkan kondisi tertentu.
+Repositori ini dibuat untuk mengumpulkan hasil latihan dan tugas praktik Python pada materi seleksi. Melalui latihan dan tugas ini, saya mempelajari penggunaan ```if, if-else,``` kondisi majemuk menggunakan operator logika, serta nested ```if``` untuk membuat keputusan berdasarkan kondisi tertentu.
 
 ## **Daftar Berkas dan Fungsinya**
 
