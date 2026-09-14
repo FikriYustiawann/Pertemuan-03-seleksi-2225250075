@@ -43,8 +43,6 @@ Setelah program dijalankan, masukkan nilai sesuai pertanyaan yang muncul pada Te
 
 ## **Hasil Pengujian Tugas Utama**
 
-## **Hasil Pengujian Tugas Utama**
-
 Program `analisis_persamaan_kuadrat.py` diuji menggunakan empat test case wajib.
 
 | **Kasus** | **Input (a, b, c)** | **Keluaran yang Diharapkan** | **Keluaran Aktual**          | **Status** |
